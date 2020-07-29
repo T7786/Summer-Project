@@ -1,8 +1,0 @@
-Game Name:Rocket League
-Release Date:09/11/2015
-
-Description:Rocket League is a game of rocket powered car soccer ...
-
-Metacritic:86
-IGN:7
-Gameinformer:9

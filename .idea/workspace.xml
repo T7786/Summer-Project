@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4bd1e49-d249-4226-8475-4759f38fa8f7" name="Default Changelist" comment="" />
+    <list default="true" id="a4bd1e49-d249-4226-8475-4759f38fa8f7" name="Default Changelist" comment="Dragged over scripts.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RocketLeague.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Games/RocketLeague.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorttttttt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorttttttt.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1fN1z6CgUzpopjjNGC2om02GAyK" />
   <component name="ProjectViewState">
@@ -19,6 +42,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Taran\PycharmProjects\Summer-Project\Games" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Sorttttttt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -59,12 +87,59 @@
       <option name="presentableId" value="Default" />
       <updated>1596043995287</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dragged over scripts.">
+      <created>1596044508861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596044508861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dragged over scripts." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dragged over scripts." />
   </component>
   <component name="WindowStateProjectService">
     <state x="669" y="135" key="#Sorttttttt" timestamp="1596044348987">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="669" y="135" key="#Sorttttttt/0.0.1920.1080@0.0.1920.1080" timestamp="1596044348987" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1596046308968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596046308968" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1596046308968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596046308968" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1596046308967">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596046308967" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1596046308968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596046308968" />
+    <state x="598" y="301" key="MultipleFileMergeDialog" timestamp="1596044568186">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="598" y="301" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596044568186" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1596044520769">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1596044520769" />
   </component>
 </project>

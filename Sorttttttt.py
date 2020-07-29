@@ -1,9 +1,38 @@
 import os
 import datetime
 import re
+from dataclasses import dataclass
 from datetime import date
 
+@dataclass
+class Game:
+    Name: str
+    Date: datetime
+    Description: str
+    #Scores: list
+
 def main():
+
+    Games_dir = "C:/Users/Taran/PycharmProjects/Summer-Project/Games"
+    for filename in os.listdir(Games_dir):
+        file = open(Games_dir + "/" + filename)
+
+        name = ""
+        date = datetime
+        description = ""
+        #scores = []
+        for line in file:
+
+            tokens = line.strip().split(":")
+            if tokens[0] =="Game Name":
+                name = tokens[1]
+
+            elif tokens[0] == "Release Date":
+                date = tokens[1]
+
+            elif tokens[0] == "Description":
+                description = tokens[1]
+
     running = True
 
     while running:
@@ -24,7 +53,7 @@ def main():
         elif cmd == "list":
              print("RocketLeague")
         elif cmd == "print(RocketLeague)":
-         file = open("RocketLeague.txt")  # opens the file with info on the game
+         file = open("Games/RocketLeague.txt")  # opens the file with info on the game
          x = file.readline()  # skips the first line that just says "grades:"
          print(x)
          x = file.readline()  # skips the first line that just says "grades:"
@@ -42,7 +71,7 @@ def main():
          x = file.readline()  # skips the first line that just says "grades:"
          print(x)
         elif cmd == "date(RocketLeague)":
-         file = open("RocketLeague.txt")  # opens the file with info on the game
+         file = open("Games/RocketLeague.txt")  # opens the file with info on the game
          file.readline()  # skips the first line that just says "grades:"
          s = file.readline()
          print(s)
