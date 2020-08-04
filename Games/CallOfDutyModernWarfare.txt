@@ -1,0 +1,8 @@
+Game Name::Call of Duty: Modern Warfare
+Release Date::08/23/2019
+Developer::Infinity Ward
+Description::The campaign follows a CIA officer and British SAS forces as they team up with rebels from the fictional country of Urzikstan, combating together against Russian forces who have invaded the country.
+
+Metacritic::80
+IGN::8.2
+GameSpot::7

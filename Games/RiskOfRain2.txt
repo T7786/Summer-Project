@@ -1,0 +1,10 @@
+Game Name::Risk Of Rain 2
+Release Date::03/28/2019
+Developer::Hopoo Games
+Description::The classic multiplayer roguelike, Risk of Rain, returns with an extra dimension and more challenging action. Play solo, or team up with up to three friends to fight your way through hordes of monsters, unlock new loot, and find a way to escape the planet. 
+
+Metacritic::-1
+IGN::9
+GameSpot::-1
+
+
