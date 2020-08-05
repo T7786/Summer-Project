@@ -1,8 +1,8 @@
-Game Name::Rocket League
-Release Date::07/07/2015
-Developer::Psyonix
-Description::Rocket League is a fantastical sport-based video game, developed by Psyonix (it's “soccer with cars”). It features a competitive game mode based on teamwork and outmaneuvering opponents. Players work with their team to advance the ball down the field, and score goals in their opponents' net.
+Game Name:Rocket League
+Release Date:07/07/2015
+Developer:Psyonix
+Description:Rocket League is a fantastical sport-based video game, developed by Psyonix (it's “soccer with cars”). It features a competitive game mode based on teamwork and outmaneuvering opponents. Players work with their team to advance the ball down the field, and score goals in their opponents' net.
 
-Metacritic::86
-IGN::9.3
-GameSpot::9
+Metacritic:86
+IGN:9.3
+GameSpot:9
